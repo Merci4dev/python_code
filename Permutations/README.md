@@ -8,6 +8,9 @@
 # Python Version
     Python 3.11.2
 
+# Objectiv
+    The objective of this code is that when it is executed, depending on how wide the parameters for the permutation are, it consumes all the RAM memory and with this we can identify when a code consumes all the memory in our machine.
+
 # Repo to download
     download repo: git clone https://github.com/Merci4dev/python_code.git
     
